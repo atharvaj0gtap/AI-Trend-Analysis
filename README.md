@@ -19,5 +19,7 @@ The data will be cleaned and processed using Python and its respective libraries
 
 Bibliography:
 Kaggle. (2024). AI-Powered Job Market Insights. Retrieved from https://www.kaggle.com/datasets/uom190346a/ai-powered-job-market-insights
+
 Brookings Institution. (2025). Retrieved from https://www.brookings.edu
+
 International Labour Organization (ILO). (28 January, 2025). How reskilling for AI could unlock new and better jobs. Retrieved from https://www.ilo.org/resource/article/how-reskilling-ai-could-unlock-new-and-better-jobs
