@@ -1,5 +1,5 @@
 # AI-Trend-Analysis
-Analysis and visualization of the impact of artificial intelligence (AI) on jobs and industries specifically employment trends. Focusing on automation risk, and job growth/decline across industries and occupations worldwide.
+Analysis and visualization of the impact of artificial intelligence (AI) on jobs and industries, specifically employment trends. Focusing on automation risk, and job growth/decline across industries and occupations worldwide.
 
 ## Motivation:
 The adoption of AI and automation technologies has drastically altered the labor market in recent years. This topic is highly relevant to me due to the ongoing concerns about job displacements, rising inequalities, and the need for workforce reskilling. Taking a global perspective allows for a comparative analysis of how countries with differing economic structures, levels of AI adoption, and technological readiness are impacted. Exploring this topic will provide insights on how AI adoption correlates with employment trends and can inform policymaking on the future of work.
